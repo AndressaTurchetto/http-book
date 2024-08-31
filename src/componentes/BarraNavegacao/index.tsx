@@ -32,7 +32,7 @@ const BarraNavegacao = () => {
     return (<nav className="ab-navbar">
         <h1 className="logo">
             <Link to="/">
-                <img className="logo" src={logo} alt="Logo da AluraBooks" />
+                <img className="logo" src={logo} alt="Logo" />
             </Link>
         </h1>
         <ul className="navegacao">
