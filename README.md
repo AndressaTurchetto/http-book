@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Books
 
 É uma loja virtual que vende livros da Casa do Código. 
